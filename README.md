@@ -1,2 +1,4 @@
 # vim常用配置
+YouCompleteMe插件需要vim 7.4+才可以需要重新安装一下vim
+使用Vundle管理插件 所以要先安装一下Vundle
 
