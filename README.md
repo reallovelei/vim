@@ -6,5 +6,5 @@ vim
 如果报 Not an editor command: PlugInstall  
 尝试 修改 vundle#begin()  为 call vundle#rc()  
 
-webhook test 1
+webhook test 2
 
